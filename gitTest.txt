@@ -4,4 +4,11 @@
 
 수정 add commit push
 
+<<<<<<< HEAD
 수정
+=======
+
+
+adwadsadwadsadwadsadwadsadwadsadwadsadwadasadawdsa
+>>>>>>> e30d5a8fc68f0aa9321e4bf0cf483c75cbf9daa7
+ㅋㅋㅋㅋㅋㅋ
